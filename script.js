@@ -220,7 +220,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {   
             question: "Flash",
             answers: ["шкода", "лікування", "засліплення", "дим"],
-            correct: 3
+            correct: 2
         },
             
         {  
